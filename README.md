@@ -1,1 +1,0 @@
-# -pre-entrega-automation-testing--juan-gorecki-
